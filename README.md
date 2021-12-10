@@ -1,6 +1,6 @@
 # Java & DSA Questions
 
-[Solutions](Java%20&%20DSA%20Questions%20eca5251277c6485e960c3ff2ba1836f8/Solutions%2064500ccf37e948b78938095aa48df9df.md)
+[Solutions](Solutions.md)
 
 ## **Create flowchart and pseudocode for the following:**
 
